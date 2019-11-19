@@ -10,14 +10,9 @@ function App() {
         <p>
           Hi there (docker-compose: working for live update?)
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p className="App-intro">
+          I was changed on the Feature branch
+        </p>
       </header>
     </div>
   );
